@@ -1,0 +1,22 @@
+input {
+  display: block;
+  width: 50%;
+  padding: 0.5rem 0.3rem;
+}
+
+.formgroup {
+  margin-bottom: 1.5rem;
+}
+
+#btn {
+  width: 50%;
+  padding: 0.5rem;
+  color: white;
+  background: #4983b9;
+}
+
+.valid {
+  color: red;
+  margin-top: 0.3rem;
+  display: none;
+}
